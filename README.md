@@ -1,6 +1,6 @@
-# Pokémon ROM Hack Hex Repository
+# Pokémon ROM Hack Info Repository
 
-Welcome to the Pokémon ROM Hack Hex Repository. This repository is dedicated to providing hex information for the ROM hacks of Pokémon Fire Red, Green Life, and Emerald. All the data shared here is free to use; simply grab what you need.
+Welcome to the Pokémon ROM Hack Hex Repository. This repository is dedicated to providing information for the ROM hacks of Pokémon Fire Red, Green Life, and Emerald. All the data shared here is free to use; simply grab what you need.
 
 ## Introduction
 
@@ -8,3 +8,10 @@ This repository is a collaborative space where ROM hackers and Pokémon enthusia
 
 Whether you are looking to modify game mechanics, adjust color schemes, or unlock new capabilities, the hex data available in this repository can serve as a valuable resource. Feel free to explore the repository, contribute your own findings, and share it with others in the Pokémon ROM hacking community.
 
+## Pokemon Base Game
+
+I am currently working with the base of Pokemon Liquid Crystal
+
+## License
+
+Pylar AI Creative ML Free License.
